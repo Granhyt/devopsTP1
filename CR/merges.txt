@@ -1,0 +1,1 @@
+Nous avons fait "git merge fork1" depuis la branche master puis avons écrit un message de commit et validé.
