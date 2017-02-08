@@ -1,0 +1,5 @@
+1) Pour créer une nouvelle branche, nous avons utilisé "git branch fork1"
+2) Pour connaître la liste des branches, nous avons utilisé "git branch"
+3) Pour connaître la branche actuellement utilisée, on peut utiliser "git branch"
+4) Pour changer de branche, nous avons utilisé "git checkout fork1"
+5) Dans la branche master il n'y a pas branchtest et les fichiers descendants. Dans la branche fork1 il n'y a pas branches.txt
