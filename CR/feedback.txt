@@ -1,0 +1,8 @@
+A l'étape 1, nous avons créé le dépôt serveur via github. Devions-nous le faire autrement ?
+
+Fast-forward dans rebase est fait automatiquement. Est-ce que le tp est antérieur à une modification du fonctionnement de la commande où le fast-forward n'était pas automatique ?
+
+L'étape 14 n'est pas très claire car nous devons résoudre le conflit dans l'étape 13 pour pouvoir terminer le merge. D'ailleurs, comment résoudre le merge ? Nous avons renommé le fichier testconflit du fork1 car il n'était pas indiqué dans les consignes quelles informations devaient être conservées.
+
+Il manque un "pas" dans l'étape 15 pour donner "Il ne fallait pas modifier ce fichier".
+
