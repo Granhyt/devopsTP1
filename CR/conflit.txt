@@ -1,0 +1,1 @@
+Pour génerer le conflit, nous avons créé deux fichiers de même nom et de contenu différent, au même emplacement dans les branches master et fork1 (à la racine dans ce cas)
