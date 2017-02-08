@@ -1,0 +1,3 @@
+Nous avons utilisé la commande "git rebase fork2" depuis la branche master
+Le fast-forward s'est effectué automatiquement, étant par défaut activé par git
+Nous n'avons pas eu besoin d'écrire un message de commit, car le rebase se contente de répliquer les commits de fork2 sur master, il n'y a pas de nouveau commit

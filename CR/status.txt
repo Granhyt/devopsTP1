@@ -1,0 +1,8 @@
+Nous avons créé trois fichiers "tocommit.txt", "notcommit.c" et "toignore.cpp"
+Nous avons créé un .gitignore et ajouté toignore.cpp dedans
+Nous avons fait la commande "git add tocommit.txt"
+Nous n'avons rien fait pour notcommit.c
+
+Si un fichier est ignoré il n'apparait pas dans "git status"
+Sinon le fichier est soit suivi, soit non suivi
+Il n'est pas possible pour un fichier d'être dans deux catégories à la fois
