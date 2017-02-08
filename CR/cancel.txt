@@ -1,0 +1,2 @@
+Nous avons utilisé la commande "git log" pour obtenir l'historique des commits
+Puis nous avons utilisé la commande "git revert <id>" avec l'id du commit à annuler
