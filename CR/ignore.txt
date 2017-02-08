@@ -1,0 +1,1 @@
+Nous avons créé un fichier .gitignore à la racine du git contenant "*.pdf" pour ignorer les fichiers .pdf et "tmp/" pour ignorer le répertoire tmp et ses éléments
